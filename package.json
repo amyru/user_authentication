@@ -1,0 +1,34 @@
+{
+  "name": "user_auth",
+  "version": "1.0.0",
+  "description": "user authentication",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "2.3.0",
+    "express-handlebars": "3.0.0",
+    "morgan": "1.7.0",
+    "body-parser": "1.15.0",
+    "cookie-parser": "1.4.1",
+    "method-override": "2.3.5",
+    "express-session": "1.13.0",
+    "orchestrate": "0.8.0",
+    "passport": "0.3.2",
+    "passport-facebook": "2.1.0",
+    "passport-google": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "1.0.4",
+    "q": "^1.4.1"
+    },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amyru/user_authentication"
+  },
+  "keywords": [
+    "authentication"
+  ],
+  "author": "amy rudolph <amy.rudolph@live.co.uk>",
+  "license": "ISC"
+}
